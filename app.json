@@ -1,10 +1,10 @@
 {
-  "name": "CASEYRHODES-XMD",
+  "name": "GHAZI-XMD",
   "description": "Javascript WhatsApp bot made by CASEYRHODES.",
-  "keywords": ["CASEYRHODES-XMD"],
+  "keywords": ["GHAZI-XMD"],
   
   
-  "logo": "https://files.catbox.moe/52dotx.jpg`",
+  "logo": "https://files.catbox.moe/tmorkt.jpeg",
   "repository": "https://github.com/caseyweb/CASEYRHODES-XMD",
   "succes_url": "/",
 
@@ -17,15 +17,16 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://files.catbox.moe/tmorkt.jpeg",
       "required": false,
-      "value": "https://files.catbox.moe/52dotx.jpg`"
+      "value": "https://files.catbox.moe/tmorkt.jpeg"
+      
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> GHAZI-XMD IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -82,13 +83,13 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ🚀🔥*"
+      "value": "*🎉👀 sᴇᴇɴ ʙʏ GHAZI-xᴍᴅ🚀🔥*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄᴀsᴇʏʀʜᴏᴅᴇs 🫅"
+      "value": "GHAZI 🫅"
 }, 
 
     "OWNER_NUMBER": {
@@ -100,7 +101,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦"
+      "value": "✦ GHAZI-xᴍᴅ✦"
 
       }, 
 
@@ -127,7 +128,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ✦ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦*"
+      "value": "*© ✦GHAZI xᴍᴅ✦*"
     },
 
       "DELETE_LINKS": {
